@@ -217,4 +217,4 @@ local function npm_prompt_filter()
     return false
 end
 
-clink.prompt.register_filter(npm_prompt_filter, 40)
+--clink.prompt.register_filter(npm_prompt_filter, 40)
